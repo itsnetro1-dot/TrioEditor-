@@ -1,0 +1,6 @@
+{
+  "name": "TrioEditor - Roblox Marketplace",
+  "description": "Your ultimate Roblox marketplace for verified game passes, in-game items, and exclusive community drops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
